@@ -26,3 +26,5 @@ export default function Chessboard() {
 
   return <div id="chessboard">{board}</div>;
 }
+
+//this is a test commit 
